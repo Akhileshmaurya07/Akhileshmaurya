@@ -11,7 +11,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=5&section=footer&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=30&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=footer&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=30&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
 
 ###
@@ -86,8 +86,12 @@
   <a href="https://discord.com/users/1076853039085928519" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://x.com/Rawan_xd7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/notrawan_xd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -104,29 +108,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=5&section=footer&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=30&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/2" alt="Medium post 3"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/3">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/3" alt="Medium post 4"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/4">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/4" alt="Medium post 5"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/5">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Rawanxd07/5" alt="Medium post 6"  />
-  </a>
 </div>
 
 ###
