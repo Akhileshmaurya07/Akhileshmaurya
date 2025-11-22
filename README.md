@@ -1,4 +1,14 @@
-<h1 align="left">Hi 👋, I'm Akhilesh Maurya</h1>
+<h1 align="center">Hi 👋, I'm Akhilesh Maurya</h1>
+
+###
+
+<p align="center">A Developer | Connoisseur | Indie<br>designing. creating. learning.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=5&section=footer&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=30&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
 
 ###
 
@@ -102,12 +112,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rawanxd07/Rawanxd07/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=5&section=footer&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=30&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
-</div>
+<p align="center">Hubristic and Prosperous......</p>
 
 ###
