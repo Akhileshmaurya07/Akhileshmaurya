@@ -119,5 +119,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=5&section=footer&reversal=false&fontSize=74&fontColor=FFFFFF&fontAlign=30&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
 </div>
-
-###
